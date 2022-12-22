@@ -5,7 +5,7 @@ main:
     url: /portfolio/ 
   
   - title: "Publications"
-    url: 
+    url: /publications/
               
   - title: "Resume"
     url: /files/Poojan_Resume.pdf
