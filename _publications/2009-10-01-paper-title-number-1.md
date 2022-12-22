@@ -7,6 +7,5 @@ date: 2019
 venue: '2019 Third IEEE International Conference on Robotic Computing (IRC)'
 paperurl: 'http://poojankshah.github.io/files/IEEE_IRC_2019.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](http://poojankshah.github.io/files/IEEE_IRC_2019.pdf)
+[Download paper here](http://poojankshah.github.io/files/IEEE_IRC_2019.pdf)
