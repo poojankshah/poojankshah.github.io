@@ -12,4 +12,4 @@ The design, development and validation of the Eklavya 6.0 have been presented in
 
 [Download paper here](http://poojankshah.github.io/files/IEEE_IRC_2019.pdf)
 
-(https://www.youtube.com/watch?time_continue=1&v=nu-RGhk0T80&feature=emb_logo) 
+[](https://www.youtube.com/watch?time_continue=1&v=nu-RGhk0T80&feature=emb_logo) 
