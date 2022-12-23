@@ -2,7 +2,7 @@
 title: "Pipe Inspection Robot | Bachelor Term Project ( Undergraduate Thesis)"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/IGVC_2018_IIT_KGP.PNG'>"
 collection: portfolio
-permalink : /portfolio/portfolio-1
+permalink: /portfolio/portfolio-1
 
 ---
  
