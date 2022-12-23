@@ -3,7 +3,7 @@ title: "A Proposal of FPGA-based Low Cost and Power Efficient Autonomous Fruit H
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this paper, we present a power-efficient and low cost prototype of a robotic harvester which employs multiple subsystems such as fruit detection, odometry, localization, proficient manipulation through computer vision, deep learning and a novel end-effector design.'
-date: 2020-10-25
+date: 2020-4-23
 venue: '2020 The 6th International Conference on Control, Automation and Robotics'
 paperurl: 'http://poojankshah.github.io/files/IEEE_ICCAR_2020.pdf'
 ---
