@@ -1,15 +1,13 @@
 # main links links
 main:
-    
+     
   - title: "Projects"
-    url: /portfolio/  
-    
+    url: /project/
+  
   - title: "Publications"
     url: /publications/
               
   - title: "Resume"
     url: /files/Poojan_Resume.pdf
     
-  - title: "Project"
-    url: /project/
-    
+      
